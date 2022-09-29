@@ -1,2 +1,2 @@
 # HWSelenide2.2
-[![Build status](https://ci.appveyor.com/api/projects/status/cddc3w4twq88m50h?svg=true)](https://ci.appveyor.com/project/Pavel-Ole/hwwebinterfase2-1)
+[![Build status](https://ci.appveyor.com/api/projects/status/fu2783evbtfvo310?svg=true)](https://ci.appveyor.com/project/Pavel-Ole/hwselenide2-2)
